@@ -1,0 +1,4 @@
+{
+  "name": "Global Location Insights",
+  "description": "A Service-Oriented Computing mini-project. Detects user location, aggregates data from multiple public APIs (IP-API, RestCountries, GeoDB), and sends the aggregated payload to a secure backend."
+}
